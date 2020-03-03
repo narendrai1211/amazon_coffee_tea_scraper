@@ -1,0 +1,93 @@
+[
+    {
+        "product_name": "Brooke Bond, Taj Mahal Tea, 500g: Amazon.in: Amazon Pantry",
+        "total_ratings": "255",
+        "average_rating": "4.4",
+        "groups_by_rating": {
+            "5 star": "65%",
+            "4 star": "24%",
+            "3 star": "4%",
+            "2 star": "1%",
+            "1 star": "6%"
+        },
+        "mention_keywords": [],
+        "ratings_by_feature": {
+            "Flavor": "4.3",
+            "Value for money": "4.3"
+        },
+        "reviews": [
+            {
+                "review_title": "Fake Taj tea- low quality version online",
+                "date": "2 June 2018",
+                "author_name": "PS Kalla",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "This is not the original Tak tea- it's second time that I have received a low quality fake version of Taj tea on Amazon. The damned is clear with the strength, aroma and grain size. Do not but it from Amazon/online.",
+                "found_helpful": "8"
+            },
+            {
+                "review_title": "Poor quality",
+                "date": "21 April 2018",
+                "author_name": "prakash",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "Quality has deterorated. Now there is mixing of tea leaves and tea dust. When sieved after boiling, lot of dust seen floating, have to sieve it with superfine sieve to remove the dust. Bad.",
+                "found_helpful": "2"
+            },
+            {
+                "review_title": "good",
+                "date": "30 July 2018",
+                "author_name": "Renukumar",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Product is good, most important while purchasing is the best before MFG date, products ordered are new, that really matters.Amazon delivery was fast, I got it very next day.Thanks",
+                "found_helpful": "2"
+            },
+            {
+                "review_title": "Best Tea in India",
+                "date": "24 October 2019",
+                "author_name": "Sahil Chaudhary",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/182dca17-5dd2-4f71-b74c-919a173aba27._CR0,0,300,300_SX48_.jpg",
+                "rating": "5.0",
+                "review_body": "This is my favourite tea in India. I have been using this tea from last 4 years. It has great aroma and taste and value for money product. Must buy.",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Go for this!",
+                "date": "5 February 2019",
+                "author_name": "Sayantani",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/319af510-bca3-44e2-9830-a690f3309beb._CR0,1.0,330,330_SX48_.jpg",
+                "rating": "5.0",
+                "review_body": "Good one! I choose this because of its quality. Compare to other brand ...I can say this is 100% aromatic. Highly recommended.",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Three Stars",
+                "date": "23 January 2018",
+                "author_name": "SK pondicherry",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "3.0",
+                "review_body": "nearing the expiry date , care should be taken in this matter",
+                "found_helpful": "3"
+            },
+            {
+                "review_title": "Great tasting tea leaves",
+                "date": "20 October 2019",
+                "author_name": "Ertles",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/fa41354e-7de3-495f-8e39-77113dfb0c29._CR0,26.0,281,281_SX48_.jpg",
+                "rating": "5.0",
+                "review_body": "One of the best tea leaves out there for the Indian taste. The flavor is just great and value for money.",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Best tea...",
+                "date": "22 January 2019",
+                "author_name": "Neha",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Using this tea from years and this is one of the finest tea.",
+                "found_helpful": "1"
+            }
+        ]
+    }
+]

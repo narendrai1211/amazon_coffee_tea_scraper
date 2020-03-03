@@ -1,0 +1,94 @@
+[
+    {
+        "product_name": "Tata Premium Tea, 1kg: Amazon.in: Amazon Pantry",
+        "total_ratings": "60",
+        "average_rating": "4.2",
+        "groups_by_rating": {
+            "5 star": "59%",
+            "4 star": "23%",
+            "3 star": "7%",
+            "2 star": "6%",
+            "1 star": "6%"
+        },
+        "mention_keywords": [],
+        "ratings_by_feature": {
+            "Flavor": "4.0",
+            "Value for money": "4.0",
+            "Presentation": "3.8"
+        },
+        "reviews": [
+            {
+                "review_title": "Quality",
+                "date": "9 October 2019",
+                "author_name": "RAJESH A.",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "The quality of tea made by this product is very good. The product was delivered one day before time.",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Good discount but small leak",
+                "date": "6 October 2019",
+                "author_name": "Jay Choksi",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "4.0",
+                "review_body": "One of the packs had a small leak hence reduced one star. Else got it at a good rate on super value day.",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "standard product from Tata",
+                "date": "16 January 2020",
+                "author_name": "Girija M.",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "its used regularly.",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Good one",
+                "date": "19 September 2019",
+                "author_name": "Umesh Mehta",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/dc2a544b-68bb-4d64-8895-517158076e19._CR0,0,450,450_SX48_.jpg",
+                "rating": "4.0",
+                "review_body": "Good morning tea",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Value for money",
+                "date": "25 August 2019",
+                "author_name": "Amazon Customer",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Strong Tea.",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Bad taste",
+                "date": "25 September 2019",
+                "author_name": "sachin pagar",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "2.0",
+                "review_body": "Not good",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Not better",
+                "date": "29 January 2020",
+                "author_name": "Debashis R.",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "2.0",
+                "review_body": "Not better",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Good",
+                "date": "12 November 2019",
+                "author_name": "tariq patankar",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "4.0",
+                "review_body": "Good",
+                "found_helpful": ""
+            }
+        ]
+    }
+]

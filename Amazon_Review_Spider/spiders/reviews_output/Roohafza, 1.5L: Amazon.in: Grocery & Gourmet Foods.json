@@ -1,0 +1,66 @@
+[
+    {
+        "product_name": "Roohafza, 1.5L: Amazon.in: Grocery & Gourmet Foods",
+        "total_ratings": "11",
+        "average_rating": "4.3",
+        "groups_by_rating": {
+            "5 star": "73%",
+            "4 star": "13%",
+            "3 star": "0%",
+            "2 star": "0%",
+            "1 star": "13%"
+        },
+        "mention_keywords": [],
+        "ratings_by_feature": {
+            "Flavor": "5.0",
+            "Value for money": "4.3"
+        },
+        "reviews": [
+            {
+                "review_title": "Nice to have in summer",
+                "date": "21 February 2020",
+                "author_name": "Amazon Customer",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Well what is there to present. I have always liked rooh afza. Just add some milk and a few ice cubes and you get a nice drink in summer heat. The thing was not found in Kerala supermarkets so thought it would be nice to order online.",
+                "found_helpful": "2"
+            },
+            {
+                "review_title": "Best product",
+                "date": "1 March 2020",
+                "author_name": "KHIMA NAND",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "I like it",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Leaked bottle.....",
+                "date": "29 February 2020",
+                "author_name": "Amazon Customer",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "4.0",
+                "review_body": "Leaked bottle received.....",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Good",
+                "date": "11 February 2020",
+                "author_name": "Kowshalya Mathan",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/2a3eac34-74c9-4689-a015-a28692313573._CR0,0,1920,1920_SX48_.jpg",
+                "rating": "5.0",
+                "review_body": "Nice",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Worst",
+                "date": "29 February 2020",
+                "author_name": "don bhai",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "Worst product",
+                "found_helpful": ""
+            }
+        ]
+    }
+]

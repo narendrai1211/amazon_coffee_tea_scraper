@@ -1,0 +1,100 @@
+[
+    {
+        "product_name": "Real Fruit Power Mixed Fruit 1L: Amazon.in: Grocery & Gourmet Foods",
+        "total_ratings": "289",
+        "average_rating": "4.1",
+        "groups_by_rating": {
+            "5 star": "53%",
+            "4 star": "22%",
+            "3 star": "12%",
+            "2 star": "5%",
+            "1 star": "8%"
+        },
+        "mention_keywords": [
+            "juices",
+            "fruits",
+            "pack",
+            "fruit juice",
+            "taste"
+        ],
+        "ratings_by_feature": {
+            "Value for money": "4.5",
+            "Presentation": "4.5",
+            "Flavor": "4.4"
+        },
+        "reviews": [
+            {
+                "review_title": "Nice",
+                "date": "5 February 2019",
+                "author_name": "Amazon Customer",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Exact product received as described and very well packed by Amazon. Best part is that it was manufactured in the same month when I ordered it.",
+                "found_helpful": "4"
+            },
+            {
+                "review_title": "Two Stars",
+                "date": "19 June 2017",
+                "author_name": "Mukti",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "2.0",
+                "review_body": "The seal of d fruit juices we're opened",
+                "found_helpful": "9"
+            },
+            {
+                "review_title": "Very nice taste. I just love its every sip",
+                "date": "16 March 2017",
+                "author_name": "Aryavrat",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Very nice taste. I just love its every sip. My family likes it and ordered 2 more packs @Rs.74 each. Also, nice deal on amazon than a local shop.",
+                "found_helpful": "7"
+            },
+            {
+                "review_title": "Three Stars",
+                "date": "27 May 2017",
+                "author_name": "Navin Sethia",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "3.0",
+                "review_body": "Because of packing it's tastes different.... Improve in that part.",
+                "found_helpful": "2"
+            },
+            {
+                "review_title": "Fake Juice not Real",
+                "date": "28 April 2017",
+                "author_name": "Abhilash Nanda",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "Only tastes sugar. Pathetic juice from Real. What the hell they are selling, they should change the name Real to Fake.",
+                "found_helpful": "2"
+            },
+            {
+                "review_title": "FRUITALICIOUS",
+                "date": "26 December 2017",
+                "author_name": "Yash Shetye",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Do I need to give a review on this one? Nope. Everyone knows how good Real Mixed Fruit Juice tastes. Don't hesitate, just buy it.",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Packaging by Amazon was good as always but the taste of the product is ...",
+                "date": "13 August 2017",
+                "author_name": "Kunal Tadas",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "2.0",
+                "review_body": "Packaging by Amazon was good as always but the taste of the product is not so good, only Real Guava is good and others are just coloured tasteless water",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Puffed container with smelly juice.",
+                "date": "13 December 2017",
+                "author_name": "Abhi",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "Juice container was puffed and inside was all smelly. Wastage of my money. Will never buy Real juices.",
+                "found_helpful": "2"
+            }
+        ]
+    }
+]

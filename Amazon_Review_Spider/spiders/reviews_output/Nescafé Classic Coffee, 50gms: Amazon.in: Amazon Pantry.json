@@ -1,0 +1,94 @@
+[
+    {
+        "product_name": "Nescafé Classic Coffee, 50gms: Amazon.in: Amazon Pantry",
+        "total_ratings": "232",
+        "average_rating": "4.5",
+        "groups_by_rating": {
+            "5 star": "68%",
+            "4 star": "22%",
+            "3 star": "4%",
+            "2 star": "1%",
+            "1 star": "4%"
+        },
+        "mention_keywords": [],
+        "ratings_by_feature": {
+            "Flavor": "4.6",
+            "Presentation": "4.3",
+            "Value for money": "4.1"
+        },
+        "reviews": [
+            {
+                "review_title": "Best option for humid climates.",
+                "date": "4 July 2018",
+                "author_name": "Shanky",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/5648cbb1-6809-4238-af35-6692a682c211._CR4,0,491,491_SX48_.jpg",
+                "rating": "5.0",
+                "review_body": "Nescafe remains the best coffee out there.These refills are very useful especially in humid areas.I had a jar but moisture somehow seeps through and the whole jar goes waste.So it's better to use these refills one at a time as the coffee stays fresh in the refill pack.Much better option for humid areas.See the pics attached for how fresh the refill pack stays vs. the Nescafe jar.",
+                "found_helpful": "4"
+            },
+            {
+                "review_title": "Flavour is always best in Nescafé",
+                "date": "29 August 2019",
+                "author_name": "Himanshu",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/954ad2fd-eb18-4252-b309-b22af0d533c2._CR0,0,500,500_SX48_.jpg",
+                "rating": "4.0",
+                "review_body": "Best instant coffee in market",
+                "found_helpful": "5"
+            },
+            {
+                "review_title": "Goooood Morning Coffee",
+                "date": "13 February 2018",
+                "author_name": "Janice Meredith",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "The best instant coffee I can find in India. No chicory added. Woo-hoo I want that caffeine kick.",
+                "found_helpful": "5"
+            },
+            {
+                "review_title": "Your everyday cup of coffee",
+                "date": "19 July 2018",
+                "author_name": "Amazon Customer",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Rich aroma, great taste.Easy to make.Makes you feel fresh and energized anytime of the day.Nice packaging",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Nestle brand is good",
+                "date": "7 June 2019",
+                "author_name": "shamanth",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Bought for mother as she was want original taste wanted experience old classic taste of coffee in early morning",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "good everyday coffee",
+                "date": "15 May 2018",
+                "author_name": "Varun Maloo",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/d613fcea-3c65-49c8-906c-fce31eebd024._CR0,0,400,400_SX48_.jpg",
+                "rating": "4.0",
+                "review_body": "My everyday coffee. The right blend of taste and aroma. Good instant coffee at this price range.",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Coffee Taste",
+                "date": "14 August 2019",
+                "author_name": "Saroj Sahu",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "4.0",
+                "review_body": "Coffee Is Very Well And Very Good But Early Use This",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Good taste",
+                "date": "9 October 2019",
+                "author_name": "Kumaran",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "4.0",
+                "review_body": "Slightly costlyGood taste",
+                "found_helpful": ""
+            }
+        ]
+    }
+]

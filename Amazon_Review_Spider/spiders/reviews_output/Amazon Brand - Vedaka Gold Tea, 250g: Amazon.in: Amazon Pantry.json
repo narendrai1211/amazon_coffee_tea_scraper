@@ -1,0 +1,94 @@
+[
+    {
+        "product_name": "Amazon Brand - Vedaka Gold Tea, 250g: Amazon.in: Amazon Pantry",
+        "total_ratings": "77",
+        "average_rating": "3.8",
+        "groups_by_rating": {
+            "5 star": "49%",
+            "4 star": "19%",
+            "3 star": "9%",
+            "2 star": "8%",
+            "1 star": "14%"
+        },
+        "mention_keywords": [],
+        "ratings_by_feature": {
+            "Presentation": "3.6",
+            "Value for money": "3.1",
+            "Flavor": "3.0"
+        },
+        "reviews": [
+            {
+                "review_title": "Not even close to Tata Tea Gold",
+                "date": "3 January 2020",
+                "author_name": "Koushik Paul",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "I tried this the first time, and it was excellent. But the next two repeat purchase turned out to be a disaster. There is no flavour in the tea. Feels like drinking hot water. I am sorry that I gave this new brand a chance. They do not deserve it.",
+                "found_helpful": "2"
+            },
+            {
+                "review_title": "Really Bad product",
+                "date": "17 October 2019",
+                "author_name": "Amazon Customer",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "This is nowhere close to any other premium teas available - Amazon needs to get their private labels tested before launching... the tea has more weeds than actual tea or other herbal ingredients. Complete waste of Money",
+                "found_helpful": "2"
+            },
+            {
+                "review_title": "Good taste!",
+                "date": "11 November 2019",
+                "author_name": "Sangfroid",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "My mom really liked this. She wanted a strong blend and this seems just about right.",
+                "found_helpful": "2"
+            },
+            {
+                "review_title": "Not a great tea",
+                "date": "17 January 2020",
+                "author_name": "tvspriya",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "2.0",
+                "review_body": "You could skip this one. I assumed this could be aromatic as teaveda(tata), but they copied the name not the flavour. Tajmahal is very good.",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "No tea Aroma. Don't buy",
+                "date": "28 October 2019",
+                "author_name": "User",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "Compared to other brands, there's no tea Aroma or smell. Don't buy.",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Worthy product",
+                "date": "26 July 2019",
+                "author_name": "Raio",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Very tasty tea",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Low price with low quality",
+                "date": "16 February 2020",
+                "author_name": "Raj",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "There's is nothing good about it other than price.",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Honestly good",
+                "date": "5 October 2019",
+                "author_name": "venkateshwar.rao",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/6e81ad59-4162-4608-951d-e4976880fc85._CR0,26.0,281,281_SX48_.jpg",
+                "rating": "5.0",
+                "review_body": "Extreme taste and quality is simply superb",
+                "found_helpful": ""
+            }
+        ]
+    }
+]

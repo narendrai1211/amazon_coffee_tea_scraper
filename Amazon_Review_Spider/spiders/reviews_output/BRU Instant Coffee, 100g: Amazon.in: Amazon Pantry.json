@@ -1,0 +1,100 @@
+[
+    {
+        "product_name": "BRU Instant Coffee, 100g: Amazon.in: Amazon Pantry",
+        "total_ratings": "346",
+        "average_rating": "4.4",
+        "groups_by_rating": {
+            "5 star": "62%",
+            "4 star": "25%",
+            "3 star": "8%",
+            "2 star": "2%",
+            "1 star": "4%"
+        },
+        "mention_keywords": [
+            "instant coffee",
+            "nescafe",
+            "coffee at a very good",
+            "aroma",
+            "taste"
+        ],
+        "ratings_by_feature": {
+            "Value for money": "4.3",
+            "Flavor": "4.2",
+            "Presentation": "4.1"
+        },
+        "reviews": [
+            {
+                "review_title": "Tastes bad",
+                "date": "29 November 2018",
+                "author_name": "Poorvi C.",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "This is a typical last resort coffee when you're broke. Tastel like burnt remains of a wooden log.",
+                "found_helpful": "9"
+            },
+            {
+                "review_title": "Simply perfect, love it",
+                "date": "15 April 2019",
+                "author_name": "A Mindful Shopper",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/99d7d04f-e7b3-4e93-a74a-a8e2b9f50dce._CR0,0,421,421_SX48_.jpg",
+                "rating": "5.0",
+                "review_body": "I'm a coffee lover and bru is my favourite, the aroma the taste everything is perfect abt it as compared to nescafe that tastes like burnt wood waste. The pricing by amazon makes it even more delightful, awesome coffee plus savings in my pocket too.",
+                "found_helpful": "3"
+            },
+            {
+                "review_title": "Nice everyday coffee at a very good price!",
+                "date": "25 October 2018",
+                "author_name": "Nairutee",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/0f942ef7-13ca-4f63-afc4-17fffe9b823d._CR0,34.0,264,264_SX48_.jpg",
+                "rating": "5.0",
+                "review_body": "1. Good coffee for everyday use. I used Nescafe classic earlier but switched to Bru and find it better!2. Amazon gives amazing prices on the coffee in Amazon pantry so totally happy with the savings!",
+                "found_helpful": "4"
+            },
+            {
+                "review_title": "All time favourite coffee",
+                "date": "14 August 2019",
+                "author_name": "BobzBLR",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "4.0",
+                "review_body": "It's good to start your mornings with a cup of hot Bru Instant Coffee. If you know how to do it right, you'll not have another brand. The chicory content is more in this, which I don't like. Chicory is just a filler to reduce coffee cost and is not good for health.",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "It's awesome",
+                "date": "6 January 2020",
+                "author_name": "Akanksha",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Bru is awesome in taste. Earlier i was using Nescafe but switched on bru just to taste. But then i really liked it's flavour and never go back. Must buy.",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Bru and nestle instant coffees tasted the same. But for filter coffee I prefer nestle",
+                "date": "20 October 2019",
+                "author_name": "Akhil",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/80517fe6-48bc-4f18-9331-3716b4936e75._CR0,0,956,956_SX48_.jpg",
+                "rating": "4.0",
+                "review_body": "They don't try to change much from what they were when they started and I'm happy that my coffee tastes how it used to be...",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Tastes better than any other brand...",
+                "date": "2 September 2019",
+                "author_name": "UDAY KIRAN",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/f05d2fbe-3eff-4e98-a41c-e5aa06c9a1e9._CR0,0.0,332,332_SX48_.jpg",
+                "rating": "5.0",
+                "review_body": "I have tried many other instant coffee brands. Nothing tastes better than bru instant. Amazon gives you a good deal for your pocket..",
+                "found_helpful": ""
+            },
+            {
+                "review_title": "Super purchase",
+                "date": "15 August 2019",
+                "author_name": "Karunendra Machineni",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Great product with excellent flavour. Since 40 years i am using this without break.",
+                "found_helpful": ""
+            }
+        ]
+    }
+]

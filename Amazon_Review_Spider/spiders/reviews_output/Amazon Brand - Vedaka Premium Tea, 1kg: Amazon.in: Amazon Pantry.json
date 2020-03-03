@@ -1,0 +1,94 @@
+[
+    {
+        "product_name": "Amazon Brand - Vedaka Premium Tea, 1kg: Amazon.in: Amazon Pantry",
+        "total_ratings": "107",
+        "average_rating": "3.9",
+        "groups_by_rating": {
+            "5 star": "51%",
+            "4 star": "20%",
+            "3 star": "10%",
+            "2 star": "11%",
+            "1 star": "8%"
+        },
+        "mention_keywords": [],
+        "ratings_by_feature": {
+            "Presentation": "3.6",
+            "Value for money": "3.4",
+            "Flavor": "3.4"
+        },
+        "reviews": [
+            {
+                "review_title": "Did not meet expectations",
+                "date": "3 August 2019",
+                "author_name": "Anil N V",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/79db810c-7d20-4aba-a908-f73a5e9f70f1._CR0,0,375,375_SX48_.jpg",
+                "rating": "2.0",
+                "review_body": "Vedaka pulses are good. Expected the same with Tea fm Vedaka, but it did not meet expectations.... Hope a review is done....",
+                "found_helpful": "6"
+            },
+            {
+                "review_title": "Good",
+                "date": "2 October 2019",
+                "author_name": "Pavan Kalyan",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "3.0",
+                "review_body": "Good but no taste like premium",
+                "found_helpful": "3"
+            },
+            {
+                "review_title": "Tea of no taste or aroma. It’s not tea at all forget premium",
+                "date": "9 November 2019",
+                "author_name": "Amazon Customer",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "No taste or aroma. You will end up losing money. Worst tea I have ever tasted. Pl do not try this. It’s mentioned as premium tea but it’s not.",
+                "found_helpful": "3"
+            },
+            {
+                "review_title": "Average Colour, Average Taste... just average",
+                "date": "8 September 2019",
+                "author_name": "Suraj",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "2.0",
+                "review_body": "The tea is cheap when compared to market rates but the taste is average..",
+                "found_helpful": "2"
+            },
+            {
+                "review_title": "Superb taste",
+                "date": "1 November 2019",
+                "author_name": "Joyful shopper",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "5.0",
+                "review_body": "Tea lovers will surely love this taste. Tried and tested many brands but this one is satisfying.",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Vedaka gold is better than this",
+                "date": "15 October 2019",
+                "author_name": "Swapna Jain .",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "It's okay product ,go for vedaka gold it's really good compared to this",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Good",
+                "date": "4 January 2020",
+                "author_name": "Avijay 1975",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "2.0",
+                "review_body": "Good",
+                "found_helpful": "1"
+            },
+            {
+                "review_title": "Not good",
+                "date": "20 November 2019",
+                "author_name": "UN",
+                "author_picture": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+                "rating": "1.0",
+                "review_body": "Tastes awfully bad. No tea flavour.",
+                "found_helpful": "1"
+            }
+        ]
+    }
+]
